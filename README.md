@@ -8,7 +8,7 @@ Job advertisement data analysis is becoming increasingly important and beneficia
 # Task 1. Parsing the job advertisement data stored in “data.dat” 
 Examine and load the data into a Pandas DataFrame.
 After the data is parsed and loaded into Pandas, you should have a DataFrame where each row is a job advertisement record and each column is one of the attributes listed in the table above.
-All the columns should be parsed with attribute names  (Note: make sure you DO NOT change the attribute names! ). In the final output (after cleansing), each column will need to be on the required format as listed in the above table. 
+All the columns should be parsed with attribute names . In the final output (after cleansing), each column will need to be on the required format as listed in the above table. 
 
 # Task 2. Auditing and cleansing the loaded data
 In this task, you are required to inspect and audit the data to identify the data problems, and then fix the problems. Different generic and major data problems could be found in the data might at least include:
